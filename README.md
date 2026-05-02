@@ -252,6 +252,8 @@ docker-compose down
 - Create federation of MQTT brokers for large-scale deployment
 
 ---
+### Report Path
+   - docs/Group21_Report.pdf
 
 ## Additional Resources
 
